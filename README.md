@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and MERN developer from India</h3>
 
-- 🔭 I’m currently working on my **Python**
+- 🔭 I’m currently working on my **MERN**
 
-- 🌱 I’m currently learning **Python,Nest JS and React JS**
+- 🌱 I’m currently learning **Nest JS, NextJs and React JS**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
